@@ -1,0 +1,23 @@
+{
+  "name": "datahub",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kornkammer/datahub.git"
+  },
+  "keywords": [
+    "open",
+    "data"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kornkammer/datahub/issues"
+  },
+  "homepage": "https://github.com/Kornkammer/datahub#readme"
+}
