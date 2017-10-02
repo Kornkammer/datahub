@@ -6,6 +6,7 @@ hub = require("./hub")
 # crash test dummy
 tx =
   time: 1234567
+  hash: 9876543
   inputs: [
     { account: "Kasse", product: "Cash", price: 1, amount: 9.8, unit: "Cash" }
   outputs: [
